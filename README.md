@@ -168,14 +168,6 @@ Metrics reported at the threshold tuned on the validation set (τ = 0.62).
 |---|---|---|---|
 | 1,846,064 | 16,070,602 | 3,394,142 | 578,216 |
 
-### Test split
-
-| IoU | Precision | Recall | F1 |
-|---|---|---|---|
-| — | — | — | — |
-
-> Test results pending completion of the full training run.
-
 ---
 
 ## Architecture
